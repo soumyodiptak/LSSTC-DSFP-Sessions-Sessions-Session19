@@ -1,0 +1,15 @@
+m_WDM: 20.0000 keV
+sigma_0_o_m_c: 0.0010 cm^2/g
+v_SIDM_c: 70.0000 km/s
+log_M_min: 6.0000 
+alpha: 1.8700
+beta: 1.1600
+K0: 1.8800e-03 1/M_sun 
+M_host: 1.1700e+12 M_sun
+alpha_m: -1.3100 
+sigma_m: 0.0050
+sigma_r: 0.2000 
+A: 20.0000 kpc
+n: 1.5000 
+mulim: 30.00
+Mrlim: -1.00 
